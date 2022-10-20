@@ -1,4 +1,4 @@
-# 👏FizzBuzz Google Cloud Function
+# 👏FizzBuzz Google Cloud Functions
 Google Cloud Functionsで動くFizzBuzz判定APIです。
 
 ## 🏗デプロイ
